@@ -1,13 +1,9 @@
 name: build
-on:
-  push:
-    branches:
-      - master
-  pull_request:
+on: [push]
 jobs:
   build:
     name: Build
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
