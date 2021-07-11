@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 197 40"
+   width="197"
+   height="40"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="4.7953443"
+     inkscape:cx="79.999356"
+     inkscape:cy="9.8919237"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <defs
+     id="defs12">
+    <linearGradient
+       id="grd1"
+       gradientUnits="userSpaceOnUse"
+       x1="159.426"
+       y1="22.106"
+       x2="170.23"
+       y2="22.26">
+      <stop
+         offset="0"
+         stop-color="#ff3158"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#ff1249"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="grd2"
+       gradientUnits="userSpaceOnUse"
+       x1="155.132"
+       y1="21.768"
+       x2="173.98"
+       y2="21.943">
+      <stop
+         offset="0"
+         stop-color="#ff4e70"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#ff3158"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <style
+     id="style14">
+		tspan { white-space:pre }
+		.shp0 { fill: #222222 } 
+		.shp1 { fill: none } 
+		.shp2 { fill: none;stroke: #222222;stroke-width: 0.8 } 
+		.shp3 { fill: url(#grd1) } 
+		.shp4 { fill: url(#grd2) } 
+		.shp5 { fill: #030104 } 
+	</style>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.91399002px;line-height:123.00000191%;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.72580707px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="2.8844781"
+     y="31.51989"
+     id="text843"><tspan
+       sodipodi:role="line"
+       id="tspan841"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';white-space:pre;fill:#666666;stroke-width:1.72580707px"
+       x="2.8844781"
+       y="58.911575" /></text>
+  <g
+     id="g842"
+     transform="matrix(2.4558885,0,0,2.4558885,-251.12877,-35.643055)">
+    <ellipse
+       id="path2984"
+       style="fill:#00112b;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cx="110.52387"
+       cy="22.691545"
+       rx="7.7880349"
+       ry="7.8063598" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/michelle/Downloads/MRibeiro/Images2/favicon.png"
+       id="text3033"
+       y="26.092762"
+       x="103.93406"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.45031834px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Biloxi Script Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Biloxi Script';-inkscape-font-specification:'Biloxi Script Bold';white-space:pre;fill:#ffffff"
+         y="26.092762"
+         x="103.93406"
+         id="tspan3035"
+         sodipodi:role="line">M</tspan></text>
+  </g>
+</svg>

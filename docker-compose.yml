@@ -1,0 +1,42 @@
+version: '3.5'
+
+services:
+  hugo_michellerio:
+    container_name: michellerio
+    hostname: michellerio
+    restart: always
+#    image: klakegg/hugo:0.82.0-alpine
+    image: klakegg/hugo:0.82.0-ext-alpine-ci
+    command: "hugo server -b https://micheller.io --appendPort=false"
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "5"
+    environment:
+      HUGO_ENV: "production"
+      HUGO_DIR: "/src"
+    volumes:
+      - type: bind
+        source: /storage/docker-volumes/hugo_micheller_io
+        target: /src
+    ports:
+     - 127.0.0.1:8022:1313
+    networks:
+      - frontend
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 256M
+      replicas: 1
+      placement:
+        # constraints: [node.labels.highperf == true]
+        constraints: [node.hostname == de01]
+
+networks:
+  frontend:
+    external: true
+    name: frontend
+
+#volumes:
+#  mribeiro_uk:
