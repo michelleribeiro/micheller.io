@@ -1,9 +1,8 @@
 name: learn-github-actions
 on: [push]
 jobs:
-  check-bats-version:
-    runs-on: ubuntu-latest
+  check-code-trivy:
+    runs-on: alpine-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-      - run: echo "bats -v"
+      - uses: docker://docker.io/aquasec/trivy:latest 
+      - run: trivy https://github.com/michelleribeiro/micheller.io
