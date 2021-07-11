@@ -73,4 +73,4 @@ Michelle Ribeiro is the CEO at [SPIRITSEC](https://www.spiritsec.com), a Brazili
 
 Michelle has pursued her Master degree in International Studies and Diplomacy at [SOAS, University of London](https://www.soas.ac.uk/cisd/programmes/mapgdipisd/), funded by the British FCO, through a [Chevening Scholarship](https://www.chevening.org/). Her [research](/publications/new-wars-in-cyberspace/) examined the challenges presented by the blurring effects of conflicts in the cyberspace.
 
-She acted as a Tech Policy Advisor for governmental initiatives and have contributed to [publications and conferences](/publications) worldwide. Michelle has been involved in different open source communities such as the DevOpsDays, the Debian Project, and the LinuxChix.
+She acted as a Tech Policy Advisor for governmental initiatives and have contributed to [publications and conferences](/publications) worldwide. Michelle has been involved in different open source communities such as the DevOpsDays, the Debian Project, and the LinuxChix
